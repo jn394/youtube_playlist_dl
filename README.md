@@ -25,6 +25,13 @@ In app.js replace the url string with desired url
 const url = 'https://www.youtube.com/playlist?list=PLRoozqP_wtDF-UvkHf9PU6QZljvx5h9-h'; // YOUTUBLE PLAYLIST URL 
 ```
 
+Run app.js in node
+
+```
+node app.js
+```
+Set back and relax!
+
 ## Contributing
 
  Contribute?
