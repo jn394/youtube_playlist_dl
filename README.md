@@ -22,7 +22,7 @@ npm install
 In app.js replace the url string with desired url
 
 ```
-const url = 'https://www.youtube.com/playlist?list=PLXcb8WgPo0RGW0ozs__AsufvuE1bZn5Ry'; // YOUTUBLE PLAYLIST URL 
+const url = 'https://www.youtube.com/playlist?list=PLXcb8WgPo0RGW0ozs__AsufvuE1bZn5Ry'; // YOUTUBE PLAYLIST URL 
 ```
 
 Run app.js in node
