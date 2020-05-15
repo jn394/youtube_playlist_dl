@@ -10,7 +10,7 @@ Just another youtube downloading module, but this time you can download videos f
 First git clone or download, whatever floats your boat
 
 ```
-git clone 
+git clone https://github.com/jn394/youtube_playlist_dl.git
 ```
 
 In directory, npm install
