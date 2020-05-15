@@ -1,86 +1,39 @@
 # youtube_playlist_dl
-Just another youtube downloading module, but this time you can download videos from a playlist url.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Just another youtube downloading module, but this time you can download videos from a playlist url. Fan
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+* node.js
+
+### Installing & Deployment
+
+First git clone or download, whatever floats your boat
 
 ```
-Give examples
+git clone 
 ```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+In directory, npm install
 
 ```
-Give the example
+npm install 
 ```
 
-And repeat
+In app.js replace the url string with desired url
 
 ```
-until finished
+const url = 'https://www.youtube.com/playlist?list=PLRoozqP_wtDF-UvkHf9PU6QZljvx5h9-h'; // YOUTUBLE PLAYLIST URL 
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+ Contribute?
 
-## Versioning
+## Author
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Jay Ng** - *Me* - [https://github.com/jn394](https://github.com/jn394)
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **youtube-playlist** - *youtube-playlist Documentation* - [https://www.npmjs.com/package/youtube-playlist](https://www.npmjs.com/package/youtube-playlist)
+* **ytdl-core** - *ytdl-core Documentation* - [https://www.npmjs.com/package/ytdl-core](https://www.npmjs.com/package/ytdl-core)
